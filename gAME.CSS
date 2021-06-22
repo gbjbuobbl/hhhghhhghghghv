@@ -1,0 +1,12 @@
+body {
+    background-color: coral;
+    align-items: center;
+}
+#bholu {
+    background-color: cornsilk;
+    border-radius: 10px;
+    border-top: 10px solid brown ;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
